@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```
 streamlit run streamlit.py
 ```
+berikut link deploy streamlit :
+https://putri-cycle.streamlit.app/
